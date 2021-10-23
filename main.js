@@ -1,9 +1,8 @@
 const linksSocialMedia = {
     github: "christiancmatos",
-    youtube: "/channel/UCvwtUN_AXl3mPSlpObspxNg",
+    linkedin: "/in/christian-matos-974890153/",
     facebook: "christian.costamatos.5", 
-    instagram: "christianc_matos",
-    twitter: "_ChristianMatos"
+    instagram: "christianc_matos"
 }
 
 function changeSocialMediaLinks() {
@@ -29,4 +28,6 @@ function getGitHubProfileInfos() {
     })
 }
 getGitHubProfileInfos()
+
+
 
